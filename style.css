@@ -59,3 +59,7 @@ header{
     }
 }
 
+main {
+    max-width: 72.7rem;
+    margin-inline: auto;
+}
