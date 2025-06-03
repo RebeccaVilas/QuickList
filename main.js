@@ -84,3 +84,5 @@ function verifyLocalStorageItems() {
 }
 
 verifyLocalStorageItems()
+
+//este comentário é apenas para conseguir realizar o último commit que falta
